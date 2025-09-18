@@ -13,7 +13,7 @@ This work was conducted using a workstation with the following configurations:
 - **OS Requirements**:
 The package has been tested on Windows 11.
 - **Software dependencies**:
-This work was implemented on Pytorch 1.12.0 in Python, along with its associated libraries torchaudio 0.12.0 and torchvision 0.13.0, with GPU acceleration. Other detailed pip requirements can be found in [requirements.txt](https://github.com/hanxuhku/PINNSR-DA/requirements.txt).
+This work was implemented on Pytorch 1.12.0 in Python, along with its associated libraries torchaudio 0.12.0 and torchvision 0.13.0, with GPU acceleration. Other detailed pip requirements can be found in [requirements.txt](./requirements.txt).
 
 ## Supplemtary Information
 - **Supplementary Information for the Main Text**
