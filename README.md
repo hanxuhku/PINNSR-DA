@@ -20,4 +20,5 @@ This work was implemented on Pytorch 1.12.0 in Python, along with its associated
 	- This Supplementary Information serves as a detailed companion to the main text and is referred to therein as "SI". It comprises four sections: Supplementary Algorithm, Supplementary Results, Supplementary Discussion, and Supplementary References.
 - **Supplementary Video**
 	- This supplementary video is provided to facilitate readers' understanding of oscillatory simple shear. It demonstrates two loading scenarios: sinusoidal loading and Heaviside loading.
+    - A clearer and higher-quality version of the video is available at the following [YouTube link](https://www.youtube.com/watch?v=Zzx57moZebE).
 
