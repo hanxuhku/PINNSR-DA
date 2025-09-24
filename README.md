@@ -3,6 +3,8 @@ This reposititory provides data and supplementary codes for the following work:
 
 "Data-driven discovery of governing equation for sheared granular materials in steady and transient states"
 
+Currently, only a portion of the code is available. The repository will be fully developed and maintained soon.
+
 ## System Requirements
 ### Hardware requirements
 This work was conducted using a workstation with the following configurations:
