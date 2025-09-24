@@ -3,8 +3,6 @@ This reposititory provides data and supplementary codes for the following work:
 
 "Data-driven discovery of governing equation for sheared granular materials in steady and transient states"
 
-Currently, only a portion of the code is available. The repository will be fully developed and maintained soon.
-
 ## System Requirements
 ### Hardware requirements
 This work was conducted using a workstation with the following configurations:
@@ -24,3 +22,4 @@ This work was implemented on Pytorch 1.12.0 in Python, along with its associated
 	- This supplementary video is provided to facilitate readers' understanding of oscillatory simple shear. It demonstrates two loading scenarios: sinusoidal loading and Heaviside loading.
     - A clearer and higher-quality version of the video is available at the following [YouTube link](https://www.youtube.com/watch?v=Zzx57moZebE).
 
+## Currently, only a portion of the code is available. The repository will be fully developed and maintained soon.
