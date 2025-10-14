@@ -1,7 +1,8 @@
 # PINNSR-DA
 This reposititory provides data and supplementary codes for the following work: 
 
-"Data-driven discovery of governing equation for sheared granular materials in steady and transient states"
+"White-box machine learning for uncovering physically interpretable dimensionless governing equations for granular materials." arXiv preprint arXiv:2509.14518 (2025).
+
 
 ## System Requirements
 ### Hardware requirements
@@ -21,6 +22,3 @@ This work was implemented on Pytorch 1.12.0 in Python, along with its associated
 - **Supplementary Video**
 	- This supplementary video is provided to facilitate readers' understanding of oscillatory simple shear. It demonstrates two loading scenarios: sinusoidal loading and Heaviside loading.
     - A clearer and higher-quality version of the video is available at the following [YouTube link](https://www.youtube.com/watch?v=Zzx57moZebE).
-
-## Note:
-Currently, only a portion of the code is available. The repository will be fully developed and maintained soon...
