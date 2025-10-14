@@ -1,8 +1,7 @@
 # PINNSR-DA
 This reposititory provides data and supplementary codes for the following work: 
 
-"White-box machine learning for uncovering physically interpretable dimensionless governing equations for granular materials." arXiv preprint arXiv:2509.14518 (2025).
-
+- **"White-box machine learning for uncovering physically interpretable dimensionless governing equations for granular materials." arXiv preprint arXiv:2509.14518 (2025).**
 
 ## System Requirements
 ### Hardware requirements
