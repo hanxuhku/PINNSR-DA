@@ -114,7 +114,7 @@ np.random.seed(1234)
 torch.manual_seed(1234)
 torch.cuda.manual_seed_all(42)
 
-class PhysicsInformedNN:
+class PINNSR:
     """
     Physics-Informed Neural Network (PINN) combined with SINDy for system identification.
     
@@ -126,7 +126,7 @@ class PhysicsInformedNN:
     def __init__(self, Data_Train, Data_Collection, Data_Validation, layers, lb, ub, 
                  name_list, project_root, collection_multiple, directory_path, h_alpha, Pre_step, dtol, log_flag=False):
         """
-        Initialize the PhysicsInformedNN model.
+        Initialize the PINNSR model.
         
         Parameters:
         -----------
@@ -937,7 +937,7 @@ for dtol in dtol_list:
                         GD.create_DimensionalCase_data(name_list, project_root, collection_multiple, directory_path, log_flag=False)
                     
                     # Initialize and train model
-                    model = PhysicsInformedNN(Data_Train, Data_Collection, Data_Validation, layers, lb, ub,
+                    model = PINNSR(Data_Train, Data_Collection, Data_Validation, layers, lb, ub,
                                               name_list, project_root, collection_multiple, directory_path, h_alpha, Pre_step, dtol, log_flag=False)
                     model.train(10)  # Run 10 ADO iterations
                     
