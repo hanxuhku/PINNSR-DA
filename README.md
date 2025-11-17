@@ -4,7 +4,7 @@ Granular material has significant implications for industrial and geophysical pr
 
 This reposititory provides data and supplementary codes for the following work: 
 
-- Xu Han, Lu Jing, Chung-Yee Kwok, Gengchao Yang and Yuri Dumaresq Sobral. **"White-box machine learning for uncovering physically interpretable dimensionless governing equations for granular materials."** arXiv preprint arXiv:2509.14518 (2025).
+- Xu Han, Lu Jing, Chung-Yee Kwok, Gengchao Yang and Yuri Dumaresq Sobral. **"Data-driven discovery of physically-interpretable governing equations for sheared granular materials."** arXiv preprint arXiv:2509.14518 (2025).
 
 ## System Requirements
 ### Hardware requirements
