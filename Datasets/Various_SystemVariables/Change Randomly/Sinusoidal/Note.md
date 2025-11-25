@@ -1,0 +1,1 @@
+‘Sinusoidal_Cases for Random System Variables’ comprises numerous files. If this is helpful for your research and you need access to it, feel free to contact the authors by email: hanxu8@connect.hku.hk.
