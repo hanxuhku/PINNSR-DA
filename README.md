@@ -26,8 +26,9 @@ This work was implemented on Pytorch 1.12.0 in Python, along with its associated
 	- This supplementary video is provided to facilitate readers' understanding of oscillatory simple shear. It demonstrates two loading scenarios: sinusoidal loading and Heaviside loading.
     - A clearer and higher-quality version of the video is available at the following [YouTube link](https://www.youtube.com/watch?v=Zzx57moZebE).
 
-## How to Run the Code?
+## How to Run the Codes?
+Relevant files and required dependency packages are stored in the 'PINNSR-DA' folder; please refer to the corresponding paths for details.
 - **Learn the case-specific governing equations**
 	- Execute the script './PINNSR-DA/PINNSR_SpecificEq.py'.
 - **Learn the equation coefficients**
-	- Execute the script './PINNSR-DA/C1.py'.
+	- Execute the script './PINNSR-DA/Dimensional_Analysis_Ci.py' (where i=1, 2, 3).
