@@ -32,3 +32,6 @@ Relevant files and required dependency packages are stored in the 'PINNSR-DA' fo
 	- Execute the script './PINNSR-DA/PINNSR_SpecificEq.py'.
 - **Learn the equation coefficients**
 	- Execute the script './PINNSR-DA/Dimensional_Analysis_Ci.py' (where i=1, 2, 3).
+- **Other Codes**
+	- For hyperparameter exploration: Refer to 'PINNSR_SpecificEq_hyper.py' and 'Dimensional_Analysis_hyper.py'.
+	- For figures related to this Paper: Codes are written in MATLAB R2023a; refer to the directory: './PINNSR-DA/draw/'.
