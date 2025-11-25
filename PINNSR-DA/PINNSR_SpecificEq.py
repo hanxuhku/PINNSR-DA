@@ -902,7 +902,7 @@ if __name__ == "__main__":
     # Set up paths
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     directory_path = os.path.join(
-        project_root, 'Dataset', 'Representative_Configuration', 'Sinusoidal', '16_groups'
+        project_root, 'Datasets', 'Representative_Configuration', 'Sinusoidal', '16_groups'
     )
     today_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     
